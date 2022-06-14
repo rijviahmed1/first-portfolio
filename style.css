@@ -12,6 +12,7 @@ h2{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .vag1{
     width: 50%;
@@ -31,4 +32,21 @@ a{
 .area1{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.vag2{
+    width: 50%;
+   padding-right: 100px;
+}
+.vag-img{
+    padding-left: 100px;
+}
+.vag2 img{
+    width: 70%;
+
+}
+
+.area2{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
